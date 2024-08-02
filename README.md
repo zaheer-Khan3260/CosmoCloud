@@ -31,13 +31,6 @@ CosmoCloud is a project leveraging the power of Vite + React, Tailwind CSS, and 
     npm install
     ```
 
-3. **Set Up Environment Variables**:
-    Create a `.env` file in the root directory and add your CosmoCloud project and environment IDs.
-    ```sh
-    VITE_PROJECT_ID=your_project_id
-    VITE_ENVIRONMENT_ID=your_environment_id
-    ```
-
 4. **Start the Development Server**:
     ```sh
     npm run dev
